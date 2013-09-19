@@ -1,13 +1,3 @@
-[submodule "SublimeFileDiffs"]
-	path = SublimeFileDiffs
-	url = https://github.com/colinta/SublimeFileDiffs.git
-	branch = st3
-[submodule "GitGutter"]
-	path = GitGutter
-	url = https://github.com/jisaacks/GitGutter.git
-[submodule "AutoFileName"]
-	path = AutoFileName
-	url = https://github.com/BoundInCode/AutoFileName.git
 [submodule "AdvancedNewFile"]
 	path = AdvancedNewFile
 	url = git@github.com:skuroda/Sublime-AdvancedNewFile.git
@@ -52,7 +42,13 @@
 	url = https://github.com/alienhard/SublimeAllAutocomplete.git
 [submodule "Package Control"]
 	path = Package Control
-	url = https://github.com/wbond/sublime_package_control.git
+	url = git@github.com:wbond/sublime_package_control.git
 [submodule "FileDiffs"]
 	path = FileDiffs
 	url = git@github.com:colinta/SublimeFileDiffs.git
+[submodule "GitGutter"]
+	path = GitGutter
+	url = git@github.com:jisaacks/GitGutter.git
+[submodule "AutoFileName"]
+	path = AutoFileName
+	url = git@github.com:BoundInCode/AutoFileName.git

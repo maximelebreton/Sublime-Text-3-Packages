@@ -53,3 +53,6 @@
 [submodule "Package Control"]
 	path = Package Control
 	url = https://github.com/wbond/sublime_package_control.git
+[submodule "FileDiffs"]
+	path = FileDiffs
+	url = git@github.com:colinta/SublimeFileDiffs.git

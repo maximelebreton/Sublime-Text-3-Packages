@@ -1,0 +1,55 @@
+[submodule "SublimeFileDiffs"]
+	path = SublimeFileDiffs
+	url = https://github.com/colinta/SublimeFileDiffs.git
+	branch = st3
+[submodule "GitGutter"]
+	path = GitGutter
+	url = https://github.com/jisaacks/GitGutter.git
+[submodule "AutoFileName"]
+	path = AutoFileName
+	url = https://github.com/BoundInCode/AutoFileName.git
+[submodule "AdvancedNewFile"]
+	path = AdvancedNewFile
+	url = git@github.com:skuroda/Sublime-AdvancedNewFile.git
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = git@github.com:SublimeLinter/SublimeLinter.git
+[submodule "BracketHighlighter"]
+	path = BracketHighlighter
+	url = git@github.com:facelessuser/BracketHighlighter.git
+[submodule "ColorHighlighter"]
+	path = ColorHighlighter
+	url = git@github.com:Monnoroch/ColorHighlighter.git
+[submodule "Emmet"]
+	path = Emmet
+	url = git@github.com:sergeche/emmet-sublime.git
+[submodule "Gist"]
+	path = Gist
+	url = git@github.com:condemil/Gist.git
+[submodule "HTMLPrettify"]
+	path = HTMLPrettify
+	url = git@github.com:victorporof/Sublime-HTMLPrettify.git
+[submodule "LiveStyle"]
+	path = LiveStyle
+	url = git@github.com:emmetio/livestyle-sublime.git
+[submodule "Fetch"]
+	path = Fetch
+	url = git@github.com:weslly/Nettuts-Fetch.git
+[submodule "SideBarEnhancements"]
+	path = SideBarEnhancements
+	url = git@github.com:titoBouzout/SideBarEnhancements.git
+[submodule "StripHTML"]
+	path = StripHTML
+	url = git@github.com:jbrooksuk/StripHTML.git
+[submodule "MarkdownEditing"]
+	path = MarkdownEditing
+	url = git@github.com:ttscoff/MarkdownEditing.git
+[submodule "Minifier"]
+	path = Minifier
+	url = git@github.com:bistory/Sublime-Minifier.git
+[submodule "SublimeAllAutocomplete"]
+	path = SublimeAllAutocomplete
+	url = https://github.com/alienhard/SublimeAllAutocomplete.git
+[submodule "Package Control"]
+	path = Package Control
+	url = https://github.com/wbond/sublime_package_control.git

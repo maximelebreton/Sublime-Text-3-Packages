@@ -1,0 +1,11 @@
+
+/PyV8
+
+# Ignore all user files
+/User/*
+# Except these
+!/User/Soda Dark 3.sublime-theme
+!/User/SublimeLinter.sublime-settings
+!/User/Side Bar.sublime-settings
+!/User/Preferences.sublime-settings
+!/User/Fetch.sublime-settings

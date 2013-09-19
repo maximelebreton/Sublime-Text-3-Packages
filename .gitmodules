@@ -37,9 +37,6 @@
 [submodule "Minifier"]
 	path = Minifier
 	url = git@github.com:bistory/Sublime-Minifier.git
-[submodule "SublimeAllAutocomplete"]
-	path = SublimeAllAutocomplete
-	url = https://github.com/alienhard/SublimeAllAutocomplete.git
 [submodule "Package Control"]
 	path = Package Control
 	url = git@github.com:wbond/sublime_package_control.git
@@ -52,3 +49,6 @@
 [submodule "AutoFileName"]
 	path = AutoFileName
 	url = git@github.com:BoundInCode/AutoFileName.git
+[submodule "AllAutocomplete"]
+	path = AllAutocomplete
+	url = git@github.com:alienhard/SublimeAllAutocomplete.git

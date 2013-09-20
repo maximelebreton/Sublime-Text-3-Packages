@@ -1,7 +1,6 @@
 {
 	"ignored_packages":
 	[
-		"SublimeAllAutocomplete",
 		"Vintage"
 	],
 	"soda_folder_icons": true,
